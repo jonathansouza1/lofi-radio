@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background-image: url('img/bg.gif');
+	background-size: cover;
+
+}
+audio{
+	display: none;
+}
+h1{
+	position: absolute;
+	top: 0;
+	left: 20px;
+	font-family: Arial;
+	max-width: 600px;
+}
